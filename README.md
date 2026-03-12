@@ -1,88 +1,75 @@
+<!-- HEADER -->
+
 <h1 align="center">Hi 👋, I'm Rishabh Kumar</h1>
-<h3 align="center">Full Stack Developer | Backend Enthusiast | Problem Solver</h3>
+<h3 align="center">Full Stack Developer | Backend Engineer | Problem Solver</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Backend+Engineer;JavaScript+%7C+Python+%7C+C%2B%2B+%7C+Java;Building+Scalable+Systems;Always+Learning+New+Things&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Backend+Developer;JavaScript+%7C+Python+%7C+C%2B%2B+%7C+Java;Building+Scalable+Systems;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-- 💻 Full Stack Developer passionate about **building scalable backend systems**
-- ⚡ Experienced in **JavaScript, Python, C++, and Java**
-- 📊 Interested in **Data Science & System Design**
-- 🧠 Currently exploring **distributed systems and backend architecture**
-- 🛠 Love building tools that improve developer productivity
+* 🚀 Full Stack Developer focused on **backend architecture**
+* 💻 Strong in **JavaScript, Python, C++, Java**
+* 📊 Interested in **Data Science & Distributed Systems**
+* 🛠 Building developer tools and scalable applications
+* 🌱 Currently learning **advanced backend systems**
 
 ---
 
 # 🛠 Tech Stack
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+![C++](https://skillicons.dev/icons?i=cpp)
 
 ### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
 
-### Data Science
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge)
+### Databases
+
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MySQL](https://skillicons.dev/icons?i=mysql)
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+
+![Git](https://skillicons.dev/icons?i=git)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Linux](https://skillicons.dev/icons?i=linux)
 
 ---
 
-# 📌 Featured Projects
+# 🚀 Featured Projects
 
-## 🏫 CMS Backend
-School Management System backend handling authentication, student data, attendance, and scheduling.
+### 🏫 CMS Backend
+
+School management backend with authentication, attendance tracking and timetable management.
 
 🔗 https://github.com/Rishabh2728/cms-backend
 
-Tech Used:
-- Node.js
-- Express
-- MongoDB
-- REST APIs
-
 ---
 
-## 🌐 Creator Connect
-A full stack platform connecting creators and brands.
+### 🌐 Creator Connect
+
+Platform connecting creators and brands with messaging and collaboration features.
 
 🔗 https://github.com/Rishabh2728/Creator-Connect
 
-Features:
-- Authentication
-- Messaging system
-- Real-time communication
-- Content collaboration
-
 ---
 
-## ⚡ Datagen CLI
-Python package for generating synthetic datasets for testing and development.
+### ⚡ Datagen CLI
+
+Python CLI tool for generating synthetic datasets for testing and development.
 
 🔗 https://github.com/Rishabh2728/datagen-cli
-
-Features:
-- Fake data generation
-- CLI based dataset creation
-- Developer productivity tool
 
 ---
 
@@ -90,9 +77,9 @@ Features:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rishabh2728&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=Rishabh2728&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh2728&layout=compact&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh2728&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -101,7 +88,19 @@ Features:
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=Rishabh2728&theme=radical">
+
+<img src="https://streak-stats.demolab.com?user=Rishabh2728&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rishabh2728&theme=tokyonight&row=1&column=6"/>
+
 </p>
 
 ---
@@ -109,7 +108,49 @@ Features:
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh2728&theme=react-dark">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh2728&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Snake Eating Contributions
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 📊 3D Contribution Calendar
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishabh2728&theme=tokyonight">
+
+</p>
+
+---
+
+# 👀 Visitor Counter
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Rishabh2728&label=Profile%20Views&color=blue&style=for-the-badge"/>
+
+</p>
+
+---
+
+# 💡 Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+
 </p>
 
 ---
@@ -122,7 +163,7 @@ Features:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://linkedin.com">
+<a href="#">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
 
@@ -130,4 +171,4 @@ Features:
 
 ---
 
-⭐️ From [Rishabh2728](https://github.com/Rishabh2728)
+⭐️ From **Rishabh2728**
