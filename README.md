@@ -19,32 +19,81 @@
 
 ---
 
+<p align="center">
+
+<a href="https://github.com/Rishabh2728/Rishabh2728/raw/main/Rishabh_Kumar_CV.pdf">
+<img src="https://img.shields.io/badge/Download%20CV-Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
 # 🛠 Tech Stack
 
-### Languages
-
+### 👨‍💻 Languages
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![Python](https://skillicons.dev/icons?i=python)
 ![Java](https://skillicons.dev/icons?i=java)
 ![C++](https://skillicons.dev/icons?i=cpp)
+![C](https://skillicons.dev/icons?i=c)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
 
-### Backend
+---
 
+### ⚙️ Backend Development
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
+![REST API](https://img.shields.io/badge/REST-API-blue)
 
-### Databases
+---
 
+### 🗄 Databases
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
+![Redis](https://skillicons.dev/icons?i=redis)
 
-### Tools
+---
 
+### 📊 Data Science & Machine Learning
+
+![Python](https://skillicons.dev/icons?i=python)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge)
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-005571?style=for-the-badge&logo=tableau)
+
+---
+
+### 🧰 Tools & Platforms
 ![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Linux](https://skillicons.dev/icons?i=linux)
+![Postman](https://skillicons.dev/icons?i=postman)
+![VSCode](https://skillicons.dev/icons?i=vscode)
 
+---
+
+### ☁️ Cloud & Deployment
+
+![Vercel](https://skillicons.dev/icons?i=vercel)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+
+---
+
+### 🧠 Concepts
+![OOP](https://img.shields.io/badge/OOP-blue)
+![Data Structures](https://img.shields.io/badge/Data-Structures-green)
+![Algorithms](https://img.shields.io/badge/Algorithms-red)
+![System Design](https://img.shields.io/badge/System-Design-orange)
+![MVC Architecture](https://img.shields.io/badge/MVC-Architecture-purple)
 ---
 
 # 🚀 Featured Projects
