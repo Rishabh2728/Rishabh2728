@@ -19,7 +19,7 @@
 
 <p align="center">
 
-<a href="https://github.com/Rishabh2728/Rishabh2728/Rishabh_Kumar_CV.pdf">
+<a href="https://raw.githubusercontent.com/Rishabh2728/Rishabh2728/main/Rishabh_Kumar_CV.pdf">
 <img src="https://img.shields.io/badge/Download%20CV-Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
