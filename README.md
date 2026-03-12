@@ -119,11 +119,23 @@ Platform connecting creators and brands with messaging and collaboration feature
 ### ⚡ Datagen CLI
 
 Official Python library for generating synthetic datasets for testing, prototyping, and development.
+📦 Official Python Library with **12K+ downloads**
 
 ![PyPI](https://img.shields.io/pypi/v/datagen-cli)
-![Downloads](https://img.shields.io/pypi/dm/datagen-cli)
 
 🔗 https://pypi.org/project/datagen-cli/
+
+<p align="center">
+
+### **🚀 20+ MORE PROJECTS**
+
+Explore more of my work and experiments on my GitHub profile.
+
+<a href="https://github.com/Rishabh2728?tab=repositories">
+<img src="https://img.shields.io/badge/View%20All%20Projects-GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 ---
 
