@@ -95,16 +95,6 @@ Python CLI tool for generating synthetic datasets for testing and development.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rishabh2728&theme=tokyonight&row=1&column=6"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
@@ -135,17 +125,7 @@ Python CLI tool for generating synthetic datasets for testing and development.
 
 ---
 
-# 👀 Visitor Counter
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Rishabh2728&label=Profile%20Views&color=blue&style=for-the-badge"/>
-
-</p>
-
----
-
-# 💡 Random Dev Quote
+# 💡 Quote
 
 <p align="center">
 
