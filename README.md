@@ -17,12 +17,14 @@
 * 🛠 Building developer tools and scalable applications
 * 🌱 Currently learning **advanced backend systems**
 
----
-
 <p align="center">
 
-<a href="https://github.com/Rishabh2728/Rishabh2728/raw/main/Rishabh_Kumar_CV.pdf">
+<a href="https://github.com/Rishabh2728/Rishabh2728/Rishabh_Kumar_CV.pdf">
 <img src="https://img.shields.io/badge/Download%20CV-Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
+<a href="https://my-portfolio-uzer.onrender.com/">
+<img src="https://img.shields.io/badge/View%20Portfolio-Website-black?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </p>
@@ -100,7 +102,7 @@
 
 ### 🏫 CMS Backend
 
-School management backend with authentication, attendance tracking and timetable management.
+A social platform backend where users can create posts, interact with content, and communicate with others.
 
 🔗 https://github.com/Rishabh2728/cms-backend
 
@@ -116,9 +118,12 @@ Platform connecting creators and brands with messaging and collaboration feature
 
 ### ⚡ Datagen CLI
 
-Python CLI tool for generating synthetic datasets for testing and development.
+Official Python library for generating synthetic datasets for testing, prototyping, and development.
 
-🔗 https://github.com/Rishabh2728/datagen-cli
+![PyPI](https://img.shields.io/pypi/v/datagen-cli)
+![Downloads](https://img.shields.io/pypi/dm/datagen-cli)
+
+🔗 https://pypi.org/project/datagen-cli/
 
 ---
 
