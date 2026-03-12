@@ -112,7 +112,8 @@ A social platform backend where users can create posts, interact with content, a
 
 Platform connecting creators and brands with messaging and collaboration features.
 
-🔗 https://github.com/Rishabh2728/Creator-Connect
+🔗 https://github.com/Rishabh2728/Creator-Connect-Frontend
+🔗 https://github.com/Rishabh2728/Creator-Content-Backend
 
 ---
 
