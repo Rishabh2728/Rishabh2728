@@ -211,7 +211,7 @@ Explore more of my work and experiments on my GitHub profile.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="#">
+<a href="https://www.linkedin.com/in/kurishabh/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
 
