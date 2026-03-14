@@ -176,8 +176,10 @@ Explore more of my work and experiments on my GitHub profile.
 
 # 🐍 Contributions
 
+## 🟡 Pacman Contribution Graph
+
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishabh2728&theme=tokyonight">
+<img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/master/dist/pacman-contribution-graph.svg">
 </p>
 
 ---
