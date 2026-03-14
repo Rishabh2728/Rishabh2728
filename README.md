@@ -174,12 +174,14 @@ Explore more of my work and experiments on my GitHub profile.
 
 ---
 
-# 🐍 Contributions
-
 ## 🟡 Pacman Contribution Graph
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/master/dist/pacman-contribution-graph.svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishabh2728/Rishabh2728/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishabh2728/Rishabh2728/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rishabh2728/Rishabh2728/output/pacman-contribution-graph.svg">
+  </picture>
 </p>
 
 ---
