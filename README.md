@@ -174,12 +174,10 @@ Explore more of my work and experiments on my GitHub profile.
 
 ---
 
-# 🐍 Snake Eating Contributions
+# 🐍 Contributions
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishabh2728&theme=tokyonight">
 </p>
 
 ---
