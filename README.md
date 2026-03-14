@@ -176,13 +176,7 @@ Explore more of my work and experiments on my GitHub profile.
 
 ## 🐍 Contribution Graph
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishabh2728/Rishabh2728/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishabh2728/Rishabh2728/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Rishabh2728/Rishabh2728/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/> </p>
 
 ---
 
